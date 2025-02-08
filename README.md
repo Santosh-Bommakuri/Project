@@ -28,3 +28,11 @@ This API allows data refresh from CSV, revenue analysis, top product insights, a
 
 - api testing results
   end point : http://localhost:8081/api/revenue
+
+-- to run the code 
+1. just clone it from git 
+2. install postgres DB
+3. run this commands
+   - go mod init Project
+   - go mod tidy
+   -go run main.go
