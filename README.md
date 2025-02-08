@@ -22,10 +22,9 @@ This API allows data refresh from CSV, revenue analysis, top product insights, a
 
 -  Clone the repository  
    ```sh
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/Santosh-Bommakuri/Project
    cd yourrepo
 -  refresh is running fro every 24 hrs
 
 - api testing results
   end point : http://localhost:8081/api/revenue
-  
